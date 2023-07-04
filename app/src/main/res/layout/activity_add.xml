@@ -13,7 +13,7 @@
         android:layout_gravity="center"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Tambah data toko PetShop"
+        android:text="Tambah data Salon"
         android:textSize="10pt"
         android:textStyle="bold"
         />
@@ -36,7 +36,7 @@
         android:id="@+id/et_alamat"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Masukan lokasi pet alamat"
+        android:hint="Masukan alamat salon"
         />
 
     <EditText
